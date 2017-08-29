@@ -21,7 +21,7 @@
 
 [下载实例](https://github.com/WWILLV/BiliBiliPlayerInfo/example/BilibiliPlayerInfo_Winform.zip)
 
-![截图](https://github.com/WWILLV/BiliBiliPlayerInfo/example/pic.png)
+![截图](https://github.com/WWILLV/BiliBiliPlayerInfo/blob/master/example/pic.png)
 
 [Release](https://github.com/WWILLV/BiliBiliPlayerInfo/releases)
 
