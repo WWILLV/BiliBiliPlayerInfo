@@ -13,7 +13,7 @@ namespace BiliBiliPlayerInfo
     //{
     //    public static void Main(String[] args)
     //    {
-    //        GetInfo info = new GetInfo("13871567");
+    //        GetInfo info = new GetInfo("");
     //        Console.WriteLine("cid:" + info.getCid());
     //        Console.WriteLine("aid:" + info.getAid());
     //        Console.WriteLine("Title:" + info.getTitle());
@@ -26,6 +26,7 @@ namespace BiliBiliPlayerInfo
     //        Console.ReadKey();
     //    }
     //}
+
     public class Page
     {
         /// <summary>
@@ -84,6 +85,7 @@ namespace BiliBiliPlayerInfo
             return htmlCode;
         }
     }
+
     public class GetInfo
     {
 
