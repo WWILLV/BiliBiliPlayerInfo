@@ -19,7 +19,7 @@
 ## 类库及实例
 使用Winform写了一个简单的输入av号返回信息的exe（原来是想写一个Bilibili桌面客户端，准备用Chromeium和H5播放器，结果dll不支持FFMPEG，除非重编译，我太懒了，太监了）
 
-[下载实例](https://github.com/WWILLV/BiliBiliPlayerInfo/example/BilibiliPlayerInfo_Winform.zip)
+[下载实例](https://github.com/WWILLV/BiliBiliPlayerInfo/blob/master/example/BilibiliPlayerInfo_Winform.zip)
 
 ![截图](https://github.com/WWILLV/BiliBiliPlayerInfo/blob/master/example/pic.png)
 
